@@ -1,0 +1,3 @@
+[[build.env]]
+name = 'PORT'
+value = '5500'
